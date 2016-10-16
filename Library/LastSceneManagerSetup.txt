@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Real3D.unity
+  isLoaded: 1
+  isActive: 1

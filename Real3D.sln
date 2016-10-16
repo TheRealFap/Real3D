@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9BB20913-5E78-4872-03BF-8F2AB625409C}") = "Real3D", "Assembly-CSharp.csproj", "{BFA3E243-DDF2-8056-C909-589471D6C2C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA3E243-DDF2-8056-C909-589471D6C2C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA3E243-DDF2-8056-C909-589471D6C2C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA3E243-DDF2-8056-C909-589471D6C2C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA3E243-DDF2-8056-C909-589471D6C2C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
